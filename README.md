@@ -1,5 +1,6 @@
 # Lymph Node project
-List of all R codes used for the analysis of single cell data in the paper Blecher et al.
+List of all R codes used for the analysis of single cell data in the paper Blecher et al. on the study of immune cell communications.
+#
 Data have not been uploaded yet to GEO but they will be soon.
 
 ### Analysis scripts
